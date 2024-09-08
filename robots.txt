@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://aumoahmo.github.io/sitemap/sitemap.txt
